@@ -6,7 +6,7 @@ A repo for the Functional-Light JavaScript course on PluralSight by Kyle Simpson
 
 ### Side Affects
 
-Something that occurs indirectly; you call a function and it returns a value but also might alter the state of the program.
+Something that occurs indirectly; you call a function and it returns a value but also might alter the state of the program or do something else.
 
 ## Composition
 
