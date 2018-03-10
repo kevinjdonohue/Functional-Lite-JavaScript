@@ -1,0 +1,24 @@
+{
+  "name": "functional-lite-javascript",
+  "version": "1.0.0",
+  "description": "A repo for the Functional-Light JavaScript course on PluralSight by Kyle Simpson.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinjdonohue/Functional-Lite-JavaScript.git"
+  },
+  "author": "Kevin J Donohue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinjdonohue/Functional-Lite-JavaScript/issues"
+  },
+  "homepage": "https://github.com/kevinjdonohue/Functional-Lite-JavaScript#readme"
+}
