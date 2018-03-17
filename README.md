@@ -12,6 +12,18 @@ Something that occurs indirectly; you call a function and it returns a value but
 
 ## Immutability
 
+`const` does not define an immutable value
+
+```javascript
+# const array just means that z can only ever point to the same array
+
+const z = [4,5,6];
+
+z = 10; // not allowed
+
+z[0] = 10; //allowed
+```
+
 ## Closure
 
 "The most important concept"
