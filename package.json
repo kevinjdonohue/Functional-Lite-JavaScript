@@ -1,7 +1,8 @@
 {
   "name": "functional-light-javascript",
   "version": "1.0.0",
-  "description": "A repo for the Functional-Light JavaScript course on PluralSight by Kyle Simpson.",
+  "description":
+    "A repo for the Functional-Light JavaScript course on PluralSight by Kyle Simpson.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -19,7 +20,7 @@
   },
   "scripts": {
     "test": "mocha --color --require babel-register ./test/setup.js ./src/**/*test.js",
-    "test:watch": "npm test -- --watch --watch-extensions js",
+    "test:watch": "npm test -- --watch --watch-extensions js --reporter min",
     "lint": "esw 'src/**/*.js' 'test/**/*.js'",
     "lint:watch": "npm run lint -- --watch"
   },
