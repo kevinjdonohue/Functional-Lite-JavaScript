@@ -1,6 +1,6 @@
 # Functional-Light JavaScript
 
-A repo for the Functional-Light JavaScript course on PluralSight by Kyle Simpson.
+A repo for the Functional-Lite JavaScript course on PluralSight by Kyle Simpson.
 
 ## Pure Functions
 
